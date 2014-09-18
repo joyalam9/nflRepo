@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23419" started-at="2014-09-17T17:47:16Z" finished-at="2014-09-17T17:47:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23419" started-at="2014-09-17T17:47:16Z" finished-at="2014-09-17T17:47:39Z">
+      <class name="com.nfl.test.TestNFL">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.nfl.test.TestNFL@23ed657a]" name="openApp" is-config="true" duration-ms="11407" started-at="2014-09-17T13:47:16Z" finished-at="2014-09-17T13:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="mainTest()[pri:0, instance:com.nfl.test.TestNFL@23ed657a]" name="mainTest" duration-ms="10240" started-at="2014-09-17T13:47:27Z" finished-at="2014-09-17T13:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.nfl.test.TestNFL@23ed657a]" name="closeApp" is-config="true" duration-ms="1732" started-at="2014-09-17T13:47:37Z" finished-at="2014-09-17T13:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.nfl.test.TestNFL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
