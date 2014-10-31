@@ -1,0 +1,16 @@
+difference between junit and testng
+advantages of testng.
+do u do unit testing?
+what is ur work? 
+What is ad tech company?
+Advertiser in mobile platform:
+1. iOS - iPhone and  iPad
+2. Android - handset and tablet
+
+Media company deals with: 
+1. Creatives - Rich media, static banner, impression, clicks, VAST video 
+2. Tracking - When creatives plays 
+3. Debugging the creatives - with Charles and RestClient 
+ -- Impression, click, duration 
+4. See video aobut how to test ads 
+5. Double click
